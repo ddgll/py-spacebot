@@ -1,4 +1,6 @@
-
 [submodule "socketIO-client"]
 	path = socketIO-client
 	url = https://github.com/ddgll/socketIO-client
+[submodule "Rainbow"]
+	path = Rainbow
+	url = https://github.com/ddgll/Rainbow
