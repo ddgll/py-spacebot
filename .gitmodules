@@ -1,0 +1,4 @@
+
+[submodule "socketIO-client"]
+	path = socketIO-client
+	url = https://github.com/ddgll/socketIO-client
